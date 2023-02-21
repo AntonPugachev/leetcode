@@ -1,7 +1,7 @@
 
 ## Array
 
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/) (hashmaps)
+- [X] [Two Sum](https://leetcode.com/problems/two-sum/) (hashmaps)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (minmax)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)(hashmaps)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)(milt from right * mult from left)
@@ -16,7 +16,7 @@
 
 ## Binary
 
-- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+- [X] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
